@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=Antivirus
+Comment=scanning and protecting ubuntu devices from malware
+Exec=@EXEC@
+Icon=@ICON@
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
+

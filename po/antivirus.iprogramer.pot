@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-06 10:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../app/ActiveServices.qml:119 ../app/ActiveServices.qml:137
+#: ../app/ActiveServices.qml:202 ../app/PassGen.qml:107
+#: ../app/firewall.qml:266 ../app/ipchecker.qml:233 ../app/ipchecker.qml:251
+#: ../app/scan.qml:770 ../app/scan.qml:788 ../app/scan.qml:883
+#: ../app/scan.qml:900 ../app/scan.qml:925
+msgid "Message"
+msgstr ""
+
+#: ../app/ActiveServices.qml:121
+msgid ""
+"if You Don't Need Some Services You should Stop Them , it's Help You To Save "
+"More Battry"
+msgstr ""
+
+#: ../app/ActiveServices.qml:124 ../app/ActiveServices.qml:141
+#: ../app/ActiveServices.qml:168 ../app/ActiveServices.qml:206
+#: ../app/PassGen.qml:111 ../app/firewall.qml:173 ../app/firewall.qml:221
+#: ../app/firewall.qml:270 ../app/ipchecker.qml:238 ../app/ipchecker.qml:256
+#: ../app/scan.qml:775 ../app/scan.qml:833 ../app/scan.qml:887
+#: ../app/scan.qml:904 ../app/scan.qml:993
+msgid "OK"
+msgstr ""
+
+#: ../app/ActiveServices.qml:138
+msgid "Service "
+msgstr ""
+
+#: ../app/ActiveServices.qml:156
+msgid "Enter password"
+msgstr ""
+
+#: ../app/ActiveServices.qml:157
+msgid "Your Password is Required To Stop "
+msgstr ""
+
+#: ../app/ActiveServices.qml:188 ../app/firewall.qml:195
+#: ../app/firewall.qml:252 ../app/scan.qml:807 ../app/scan.qml:869
+msgid "Cancel"
+msgstr ""
+
+#: ../app/ActiveServices.qml:203 ../app/firewall.qml:267 ../app/scan.qml:884
+msgid "Incorrect Password"
+msgstr ""
+
+#: ../app/Main.qml:50
+msgid "Scan"
+msgstr ""
+
+#: ../app/Main.qml:65
+msgid "Firewall"
+msgstr ""
+
+#: ../app/Main.qml:80
+msgid "Active Services"
+msgstr ""
+
+#: ../app/Main.qml:96
+msgid "IP/Site Checker"
+msgstr ""
+
+#: ../app/Main.qml:111
+msgid "Password Generator"
+msgstr ""
+
+#: ../app/Main.qml:126
+msgid "Submit"
+msgstr ""
+
+#: ../app/Main.qml:141
+msgid "About"
+msgstr ""
+
+#: ../app/PassGen.qml:108
+msgid "Please Select At The Least One Mode"
+msgstr ""
+
+#: ../app/firewall.qml:161 ../app/firewall.qml:209 ../app/scan.qml:821
+msgid "Enter Password"
+msgstr ""
+
+#: ../app/firewall.qml:162 ../app/firewall.qml:210
+msgid "Your password is required for this action"
+msgstr ""
+
+#: ../app/ipchecker.qml:235
+msgid "Network is Unreachable"
+msgstr ""
+
+#: ../app/ipchecker.qml:253
+msgid "Error While Getting Data"
+msgstr ""
+
+#: ../app/scan.qml:772
+msgid "Network is Unreachable Checking Malicious IP Skipped"
+msgstr ""
+
+#: ../app/scan.qml:789
+msgid "Network is Unreachable This Will Reduce Impact of Scan"
+msgstr ""
+
+#: ../app/scan.qml:792
+msgid "Resume"
+msgstr ""
+
+#: ../app/scan.qml:822
+msgid "Your Password is Required for This Action"
+msgstr ""
+
+#: ../app/scan.qml:901
+msgid "All Security Risks Fixed Successfully"
+msgstr ""
+
+#: ../app/scan.qml:926
+msgid "Please Wait..."
+msgstr ""
+
+#: ../app/scan.qml:971
+msgid "Scan Result"
+msgstr ""
+
+#: /home/iprogramer/Desktop/build-Antivirus-UbuntuSDK_for_device_armhf_GCC_armhf_ubuntu_sdk_15_04-Default/po/Antivirus.desktop.in.h:1
+msgid "Antivirus"
+msgstr ""

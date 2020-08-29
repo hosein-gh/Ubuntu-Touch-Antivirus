@@ -1,0 +1,15 @@
+{
+    "name": "@APP_ID@",
+    "description": "scanning and protecting ubuntu devices from malware",
+    "architecture": "@CLICK_ARCH@",
+    "title": "@APP_NAME@",
+    "hooks": {
+        "Antivirus": {
+            "apparmor": "Antivirus.apparmor",
+            "desktop": "Antivirus.desktop"
+        }
+    },
+    "version": "0.2",
+    "maintainer": "Hosein Ghanbari <hosein.iprogramer@yahoo.com>",
+    "framework": "ubuntu-sdk-15.04.6"
+}
